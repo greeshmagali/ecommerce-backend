@@ -5,18 +5,18 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **Python** – Core programming language
 * **Flask** – Backend web framework
 * **SQLite** – Database management
 * **SQLAlchemy** – ORM for database operations
 * **Flask Blueprint** – Route organization and modular structure
-* **Postman** – API testing
+* **Thunder Client** – API testing
 
 ---
 
-## ✨ Features
+## Features
 
 * User registration and login
 * Product management
@@ -29,7 +29,7 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 * `auth.py` – Authentication routes
 * `product_routes.py` – Product-related APIs
@@ -40,7 +40,7 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 🔄 Development Process
+## Development Process
 
 1. Planned the backend architecture and API structure
 2. Created database models using SQLAlchemy
@@ -64,7 +64,7 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add JWT authentication
 * Integrate payment gateway functionality
@@ -75,10 +75,10 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 📌 Purpose of the Project
+## Purpose of the Project
 
 This project was created to strengthen backend development skills by building a real-world e-commerce API system using Flask and Python while understanding core backend concepts and application architecture.
 
 ---
 ## Author
-Greeshma Frontend Developer | CSE (AI & ML) Student GitHub: https://github.com/greeshmagali
+Greeshma web Developer | CSE (AI & ML) Student GitHub: https://github.com/greeshmagali
