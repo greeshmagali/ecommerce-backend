@@ -52,7 +52,7 @@ This project focuses on backend development concepts such as REST APIs, authenti
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 * Building REST APIs using Flask
 * Database modeling and relationships
