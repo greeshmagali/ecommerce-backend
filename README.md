@@ -144,7 +144,7 @@ When an order is placed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/greeshmagali/ecommerce-backend.git
+git clone https://github.com/greeshmagali07/ecommerce-backend.git
 ```
 
 ### 2. Move into the project
