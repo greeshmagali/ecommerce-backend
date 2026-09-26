@@ -306,4 +306,4 @@ This project was developed to strengthen practical knowledge of:
 B.Tech – Computer Science & Engineering (AI & ML)
 
 GitHub:
-https://github.com/greeshmagali
+https://github.com/greeshmagali07
